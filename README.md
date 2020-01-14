@@ -76,9 +76,9 @@ Programming Languages
 
 :   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
-[ref]: https://github.com/gjamila59/blackjack
+[ref]: https://github.com/amila59/blackjack
 
-Extra Section, Call it Whatever You Want
+Languages
 ----------------------------------------
 
 * Human Languages:
@@ -88,5 +88,5 @@ Extra Section, Call it Whatever You Want
      
 ----
 
-> <aliyeva852@gmail.com> • (425)-442-6064 • 20 years old\
+> <aliyeva852@gmail.com> • (425)-442-6064 • https://github.com/jamila59/ \
 > 1052 E Thomas St Apt 4 - Seattle, Washington
