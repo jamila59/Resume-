@@ -1,9 +1,6 @@
 Jamila Aliyeva
 ============
 
-Johnny Coder
-============
-
 ----
 
 Goals-oriented Full Stack Web Developer with strong technical and problem solving skills, and a high aptitude for learning. I have excellent communication skills with experience in Individual, Pair and Mob programming. I am passionate about appplying my creativity into sequences of code.
@@ -30,16 +27,16 @@ Education
 2019-2020
 :   **Full Stack-Developer, Certificate in Web and Mobile Development**; Epicodus Programming School, (Seattle,WA)
 
-    * Intensive 5 month coding-program focused on developing systematic and creative problem solving skills in an individual and group environment. This included over 1000 hours of coding experience.*
+Intensive 5 month coding-program focused on developing systematic and creative problem solving skills in an individual and group environment. This included over 1000 hours of coding experience.
 
 2017-2019
 :   **University of Washington; (Seattle,WA)** 
-    Phi Theta Kappa Honors Society
+Phi Theta Kappa Honors Society
 
 
 2015-2017
 :   **AAS, Associate of Arts and Sciences Bellevue College; (Bellevue,WA)**
-    Phi Theta Kappa Honors Society
+Phi Theta Kappa Honors Society
 
 
 Experience
