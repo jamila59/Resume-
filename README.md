@@ -1,23 +1,18 @@
 Jamila Aliyeva
 ============
 
--------------------     ----------------------------------------
-1052 E Thomas St                 aliyeva852@gmail.com
-Apt 4,                           github.com/jamila59
-Seattle, WA                      linkedin.com/in/jamila-aliyeva
-98102                            425-442-6064
--------------------     ----------------------------------------
+Johnny Coder
+============
 
-Summary
---------
+----
 
-Goals-oriented Full Stack Web Developer with strong technical and problem solving skills, and a high aptitude for learning. I have excellent communication skills with experience in Individual, Pair and Mob programming. I am passionate about appplying my creativity into scripts of code.
+Goals-oriented Full Stack Web Developer with strong technical and problem solving skills, and a high aptitude for learning. I have excellent communication skills with experience in Individual, Pair and Mob programming. I am passionate about appplying my creativity into sequences of code.
 
+----
 Technical Skills
 -----------------
 
 C#, .NET Framework, Javascript, jQuery, Node.js, SQL, ,React, Git & Github, , HTML, CSS, Sass
-
 
 Skills and Competencies
 ------------------------
@@ -37,48 +32,36 @@ Education
 
     * Intensive 5 month coding-program focused on developing systematic and creative problem solving skills in an individual and group environment. This included over 1000 hours of coding experience.*
 
-
-    2017-2019
+2017-2019
 :   **University of Washington; (Seattle,WA)** 
     Phi Theta Kappa Honors Society
 
 
-
-    2015-2017
-:   **AAS, Associate of Arts and Sciences Bellevue College; (Bellevue, WA)**
+2015-2017
+:   **AAS, Associate of Arts and Sciences Bellevue College; (Bellevue,WA)**
     Phi Theta Kappa Honors Society
 
 
 Experience
 ----------
 
-Internship March 2020 - May 2020
+**Internship March 2020 - May 2020:**
 
-* Internship Secured through Epicodus
-* 30 hours per week
-* Web Development Work
+* Internship Secured through Epicodus 
+* 30 hours per week  
+* Professional Web Development Work
 
-Wagly September 2018- July 2019
+**Wagly September 2018- July 2019**
 
 * Daily collaboration with medical staff in regards to animal patients
 * Was allocated with more responsibility throughout employment
 * One of three employees trusted with controlled substances
 
-Projects
+Technical Experience
 --------------------
 
-Blackjack Project 
-
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-
 Programming Languages
-:   **C#:** Here, we have an itemization, where we only want
+:   **first-lang:** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
     here is a description list where the first few items have their
@@ -86,15 +69,27 @@ Programming Languages
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
+:   **second-lang:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file). 
 
-[ref]: https://github.com/githubuser/jamila59
+:   **obscure-but-impressive-lang:** We both know this one's pushing
+    it.
 
-Languages 
+:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+
+[ref]: https://github.com/gjamila59/blackjack
+
+Extra Section, Call it Whatever You Want
 ----------------------------------------
 
 * Human Languages:
 
      * English (professionally proficient)
      * Russian (professionally proficient)
+     
+----
 
-
+> <aliyeva852@gmail.com> • (425)-442-6064 • 20 years old\
+> 1052 E Thomas St Apt 4 - Seattle, Washington
